@@ -1,6 +1,6 @@
 # ORAS 
 
-An Operations Research Assisted System for Data Generation
+An Operations Research Assisted System for Logic Data Generation
 
 ## Introduction
 
