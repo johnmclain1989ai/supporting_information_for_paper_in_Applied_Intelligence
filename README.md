@@ -13,4 +13,14 @@ Therefore, we propose ORAS, an Operations Research Assisted System, to generate 
 
 # Part One: Text Logic puzzles
 
+## assignment problem
+
+## assertion problem
+
 # Part Two: Multi Module Two Dimension Puzzles
+
+## route problem
+
+## board fill problem
+
+## board divide problem
