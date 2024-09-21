@@ -11,16 +11,16 @@ Synthetic data generation has emerged as a solution to this problem.
 The most difficult aspect of data generation is validating the correctness of the generated data.
 Therefore, we propose ORAS, an Operations Research Assisted System, to generate reliable data for the training and testing of LLMs.
 
-# Part One: Text Logic puzzles
+## Part One: Text Logic puzzles
 
-## assignment problem
+### assignment problem
 
-## assertion problem
+### assertion problem
 
-# Part Two: Multi Module Two Dimension Puzzles
+## Part Two: Multi Module Two Dimension Puzzles
 
-## route problem
+### route problem
 
-## board fill problem
+### board fill problem
 
-## board divide problem
+### board divide problem
